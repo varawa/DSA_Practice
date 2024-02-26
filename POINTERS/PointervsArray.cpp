@@ -53,5 +53,6 @@ int main(){
     cout<<"Size of *arr : "<<sizeof(*arr)<<endl ;
     
     return 0 ;
+    
 
 }
